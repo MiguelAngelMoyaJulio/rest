@@ -8,7 +8,7 @@ public class HelloController {
 
     @GetMapping("/api/hola")
     public String saludo() {
-        return "hola mi primer app en la nube";
+        return "bola hedionda te saludo desde la web";
     }
 
 }
